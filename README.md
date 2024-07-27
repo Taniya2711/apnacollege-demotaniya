@@ -1,4 +1,4 @@
-# apnacollege-demotaniya
+cd # apnacollege-demotaniya
 This is my first Git repository
 <br>
-Author-Taniya Das
+Author-Taniya Ghosal
